@@ -1,0 +1,14 @@
+name: Kingdom
+main: Kingdom.main
+version: 1337
+api-version: 1.13
+depend: [ArmorEquipEvent]
+commands:
+  tag:
+  king:
+  show:
+  m:
+  jail:
+  kdedit:
+  labor:
+  krprules:
